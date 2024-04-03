@@ -3,6 +3,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Cta from './components/Cta'
+import Testimonials from './components/Testimonials'
 
 
 function App() {
@@ -18,22 +19,7 @@ function App() {
       <Cta/>
     </div>
 
-    <section>
-      <div>
-        <h1> Testimonials</h1>
-        <h2> ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ </h2>
-        <h2> - Lucy M </h2>
-      </div>
-
-      <div>
-        <img src="#" alt="Image" />
-        <img src="#" alt="Image" />
-        <img src="#" alt="Image" />
-      </div>
-    </section>
-    
-
-   
+    <Testimonials/>
     </>
   )
 }
