@@ -2,9 +2,9 @@ function Navbar() {
   
     return (
       <>
-        <nav className='m-4 flex justify-between'>
+        <nav className='p-4 flex justify-between bg-gradient-to-b from-gray-600 ...'>
           <div>
-            <a href="#" className='font-bold text-3xl text-periwinkle'>Snackies</a>
+            <a href="#" className='font-bold text-3xl text-white'>Snackies</a>
           </div>
   
           <div className='flex space-x-2 items-center'>
