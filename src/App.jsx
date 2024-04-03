@@ -14,7 +14,24 @@ function App() {
       <Hero/>
     </div>
 
-    <Cta/>
+    <div>
+      <Cta/>
+    </div>
+
+    <section>
+      <div>
+        <h1> Testimonials</h1>
+        <h2> ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ </h2>
+        <h2> - Lucy M </h2>
+      </div>
+
+      <div>
+        <img src="#" alt="Image" />
+        <img src="#" alt="Image" />
+        <img src="#" alt="Image" />
+      </div>
+    </section>
+    
 
    
     </>
