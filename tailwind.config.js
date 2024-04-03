@@ -18,6 +18,9 @@ export default {
     extend: {
       colors: {
         ...colors
+      },
+      backgroundImage: {
+        'hero': "url(./src/assets/snack-banner.jpg)"
       }
     },
   },
