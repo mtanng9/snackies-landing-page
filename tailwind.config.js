@@ -1,4 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+
+const colors = require('tailwindcss/colors')
+
 export default {
   content: [
     "./index.html",
@@ -12,7 +15,11 @@ export default {
       deepBlue: "#62bfedff",
       dodgerBlue: "#3590f3ff",
     },
-    extend: {},
+    extend: {
+      colors: {
+        ...colors
+      }
+    },
   },
   plugins: [],
 }
