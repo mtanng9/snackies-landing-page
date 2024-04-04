@@ -5,7 +5,7 @@ function Cta() {
             <section id='cta' className='flex flex-row p-3 space-x-3'>
                 <div className='flex flex-row bg-periwinkle'>
                 <div className='m-3'>
-                <img src="./src/assets/packing-snacks.jpg" alt="Picture of people handing boxes" className='h-[150px] w-[200px]' />
+                <img src="./src/assets/packing-snacks.jpg" alt="Picture of people handing boxes" className='h-[180px] w-[300px] p-1' />
                 </div>
     
                 <div>
