@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import Cta from './components/Cta'
 import Testimonials from './components/Testimonials'
 import SignUp from './components/SignUp'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
       <SignUp/>
     </div>
 
+    <Footer/>
     </>
   )
 }
