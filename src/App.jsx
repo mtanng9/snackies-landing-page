@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Cta from './components/Cta'
 import Testimonials from './components/Testimonials'
+import SignUp from './components/SignUp'
 
 
 function App() {
@@ -19,7 +20,14 @@ function App() {
       <Cta/>
     </div>
 
-    <Testimonials/>
+    <div>
+      <Testimonials/>
+    </div>
+
+    <div>
+      <SignUp/>
+    </div>
+
     </>
   )
 }
