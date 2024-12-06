@@ -4,7 +4,7 @@
 
 This is a landing page of a website called Snackies that focuses on bringing the world's best snacks to your doorstep.
 
-![webpage screenshot](https://github.com/mtanng9/01-marketing-agency-webpage/blob/main/README-Screenshot.png?raw=true)
+![webpage screenshot](https://github.com/mtanng9/snackies-landing-page/blob/main/screenshot.png)
 
 ## Table of Contents (Optional)
 
