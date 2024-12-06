@@ -1,8 +1,31 @@
-# React + Vite
+# Snackies Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This is a landing page of a website called Snackies that focuses on bringing the world's best snacks to your doorstep.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![webpage screenshot](https://github.com/mtanng9/01-marketing-agency-webpage/blob/main/README-Screenshot.png?raw=true)
+
+## Table of Contents (Optional)
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+- npm install
+- npm run dev
+
+## Usage
+
+Website is available at: [Coming Soon]()
+
+## Credits
+
+My My, myself and I
+
+## License
+
+MIT
