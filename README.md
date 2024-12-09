@@ -5,7 +5,7 @@ I created Snackies, a landing page dedicated to showcasing a service that delive
 
 ![webpage screenshot](https://github.com/mtanng9/snackies-landing-page/blob/main/screenshot.png)
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
